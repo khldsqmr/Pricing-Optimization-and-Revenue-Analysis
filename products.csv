@@ -1,0 +1,5 @@
+ProductID,Category,CostPrice,CompetitorPrice,PurchasePrice,PreviousSales,PurchaseHistory
+1,Laptop,800,1200,900,50,10
+2,Mobile,500,700,550,40,8
+3,Tablet,300,400,350,30,6
+4,Headphone,50,80,60,60,12

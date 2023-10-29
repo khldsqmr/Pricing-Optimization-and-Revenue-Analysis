@@ -76,7 +76,7 @@ To enhance the analysis, we performed feature engineering on the customer data:
 
 ### __Step 9: Conclusion__
 
-> - This approach showcases the effectiveness of data-driven price optimization in driving revenue growth and customer satisfaction. The optimization process led to a significant increase in revenue, from \\$3400 to \\$4477,  resulting in a remarkable growth of \\$1077.00. The project demonstrates the potential of leveraging customer data and advanced analytics for pricing strategies.
+> - This approach showcases the effectiveness of data-driven price optimization in driving revenue growth and customer satisfaction. The optimization process led to a significant increase in revenue, from \$3400 to \$4477,  resulting in a remarkable growth of \$1077.00. The project demonstrates the potential of leveraging customer data and advanced analytics for pricing strategies.
 >
 > - Implemented a two-phase approach: data understanding and optimization, followed by impact analysis.
 > 

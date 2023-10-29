@@ -64,6 +64,20 @@ To enhance the analysis, we performed feature engineering on the customer data:
 
 > Check the initial and final prices based on the optimization
 
+| CustomerID | ProductID | PurchasePrice_product | Category  | FinalPrice |
+|------------|-----------|----------------------|-----------|------------|
+| 1001       | 1         | 900.0                | Laptop    | 760.0      |
+| 1002       | 2         | 550.0                | Mobile    | 485.0      |
+| 1003       | 3         | 350.0                | Tablet    | 300.0      |
+| 1004       | 4         | 60.0                 | Headphone | 47.5       |
+| 1005       | 1         | 900.0                | Laptop    | 776.0      |
+| 1006       | 2         | 550.0                | Mobile    | 500.0      |
+| 1007       | 3         | 350.0                | Tablet    | 285.0      |
+| 1008       | 4         | 60.0                 | Headphone | 48.5       |
+| 1009       | 1         | 900.0                | Laptop    | 800.0      |
+| 1010       | 2         | 550.0                | Mobile    | 475.0      |
+
+
 ### __Step 8: Revenue Analysis__
 
 > With the optimized prices in place, we conducted a comprehensive revenue analysis. Here are the key metrics:
